@@ -1,0 +1,2 @@
+To Solve The Challenge, try to figured out the source of page,  u ll see a login.js script, and the button has onClick event  
+which is calling the Login() function in that script, u ll see a part of login validation, and congrats, the password is the flag
